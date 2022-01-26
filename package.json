@@ -15,7 +15,8 @@
     "nodemon": "^2.0.15",
     "puppeteer": "^13.1.2",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "yarn": "^1.22.17"
   },
   "engines": {
     "node": "14.17.6"
